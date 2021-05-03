@@ -9,7 +9,7 @@ Try to get github desktop working to link the folders of this repository directl
 https://desktop.github.com/
 
 ## Step 2
-Do your first edit (called a commit) to the repository to see if it works. Add a file or edit a file.
+Do your first edit (called a commit) to the repository to see if it works. Add a file or edit a file. -Stefan was here
 
 ## Step 3
 Search some jupyter notebooks of interest from other Github repositories and store them in this repository. (try making a new folder)
