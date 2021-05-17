@@ -224,3 +224,29 @@ Finished
 2021-05-17 13:37:19,138 [DEBUG] py4...: ǀReturning 'commands_post': {}
 2021-05-17 13:37:19,138 [DEBUG] py4...: Returning 'layout_network': {}
 2021-05-17 13:37:19,138 [DEBUG] py4...: --------------------
+2021-05-17 16:48:07,354 [DEBUG] py4...: Calling commands_get('wikipathways import-as-network id="WP4010"')
+2021-05-17 16:48:07,356 [DEBUG] py4...: Attempting to connect to local Cytoscape
+2021-05-17 16:48:07,510 [DEBUG] py4...: Detected local Cytoscape
+2021-05-17 16:48:07,510 [DEBUG] py4...: HTTP POST(http://127.0.0.1:1234/v1/commands/filetransfer/setSandbox), json: {'sandboxName': 'default_sandbox', 'copySamples': True, 'reinitialize': True}
+2021-05-17 16:48:07,642 [DEBUG] py4...: OK[200], content: {
+ "data": {"sandboxPath":"C:\\Users\\stefa\\CytoscapeConfiguration\\filetransfer\\default_sandbox"},
+ "errors":[]
+}
+2021-05-17 16:48:07,642 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/wikipathways/import-as-network), params: {'id': 'WP4010'}
+2021-05-17 16:48:11,360 [DEBUG] py4...: OK[200], content: Finished
+
+2021-05-17 16:48:11,360 [DEBUG] py4...: Returning 'commands_get': []
+2021-05-17 16:48:11,361 [DEBUG] py4...: --------------------
+2021-05-17 16:48:11,385 [DEBUG] py4...: Calling commands_get('cytargetlinker extend idAttribute="XrefId" linkSetFiles="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml" network=current direction=TARGETS')
+2021-05-17 16:48:11,386 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/cytargetlinker/extend), params: {'idAttribute': 'XrefId', 'linkSetFiles': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml', 'network': 'current', 'direction': 'TARGETS'}
+2021-05-17 16:48:12,434 [DEBUG] py4...: OK[200], content: Extension step: 1
+
+Finished
+
+2021-05-17 16:48:12,435 [DEBUG] py4...: Returning 'commands_get': ['Extension step: 1']
+2021-05-17 16:48:12,435 [DEBUG] py4...: --------------------
+2021-05-17 16:48:12,448 [DEBUG] py4...: Calling commands_get('vizmap load file file="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml"')
+2021-05-17 16:48:12,449 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/load%20file), params: {'file': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml'}
+2021-05-17 16:48:12,487 [DEBUG] py4...: Internal Server Error[500], content: Failed: Don't know how to read file:/C:/home/marvin.martens/Documents/Teaching/2021/Bachelor%20internship/2021-internship/Marvin/newstyleV1.xml
+2021-05-17 16:48:12,487 [DEBUG] py4...: 'commands_get' exception CyError("In commands_get(): Failed: Don't know how to read file:/C:/home/marvin.martens/Documents/Teaching/2021/Bachelor%20internship/2021-internship/Marvin/newstyleV1.xml")
+2021-05-17 16:48:12,488 [DEBUG] py4...: --------------------
