@@ -103,3 +103,124 @@ Finished
 
 2021-05-17 13:16:02,069 [DEBUG] py4...: Returning 'commands_get': ['Style applied to views:', 'CTL_Liver steatosis adverse outcome pathway - Homo sapiens_7 (SUID: 41216)']
 2021-05-17 13:16:02,069 [DEBUG] py4...: --------------------
+2021-05-17 13:26:38,678 [DEBUG] py4...: Calling commands_get('wikipathways import-as-network id="WP4010"')
+2021-05-17 13:26:38,678 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/wikipathways/import-as-network), params: {'id': 'WP4010'}
+2021-05-17 13:26:40,831 [DEBUG] py4...: OK[200], content: Finished
+
+2021-05-17 13:26:40,831 [DEBUG] py4...: Returning 'commands_get': []
+2021-05-17 13:26:40,831 [DEBUG] py4...: --------------------
+2021-05-17 13:26:40,838 [DEBUG] py4...: Calling commands_get('cytargetlinker extend idAttribute="XrefId" linkSetFiles="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml" network=current')
+2021-05-17 13:26:40,838 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/cytargetlinker/extend), params: {'idAttribute': 'XrefId', 'linkSetFiles': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml', 'network': 'current'}
+2021-05-17 13:26:41,851 [DEBUG] py4...: OK[200], content: Extension step: 1
+Linkset: WikiPathways-BBS3004_Homo sapiens_20210312
+Added edges: 911
+Added nodes: 655
+
+Finished
+
+2021-05-17 13:26:41,851 [DEBUG] py4...: Returning 'commands_get': ['Extension step: 1', 'Linkset: WikiPathways-BBS3004_Homo sapiens_20210312', 'Added edges: 911', 'Added nodes: 655']
+2021-05-17 13:26:41,851 [DEBUG] py4...: --------------------
+2021-05-17 13:26:45,499 [DEBUG] py4...: Calling commands_get('vizmap load file file="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml"')
+2021-05-17 13:26:45,499 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/load%20file), params: {'file': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml'}
+2021-05-17 13:26:45,532 [DEBUG] py4...: OK[200], content: Loaded styles:
+CyTargetLinker_0
+Finished
+
+2021-05-17 13:26:45,532 [DEBUG] py4...: Returning 'commands_get': ['Loaded styles:', 'CyTargetLinker_0']
+2021-05-17 13:26:45,532 [DEBUG] py4...: --------------------
+2021-05-17 13:26:59,487 [DEBUG] py4...: Calling commands_get('vizmap apply styles="CyTargetLinker_0"')
+2021-05-17 13:26:59,488 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/apply), params: {'styles': 'CyTargetLinker_0'}
+2021-05-17 13:26:59,632 [DEBUG] py4...: OK[200], content: Style applied to views:
+CTL_Liver steatosis adverse outcome pathway - Homo sapiens_7 (SUID: 47841)
+Finished
+
+2021-05-17 13:26:59,632 [DEBUG] py4...: Returning 'commands_get': ['Style applied to views:', 'CTL_Liver steatosis adverse outcome pathway - Homo sapiens_7 (SUID: 47841)']
+2021-05-17 13:26:59,632 [DEBUG] py4...: --------------------
+2021-05-17 13:27:09,501 [DEBUG] py4...: Calling commands_get('wikipathways import-as-network id="WP4010"')
+2021-05-17 13:27:09,501 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/wikipathways/import-as-network), params: {'id': 'WP4010'}
+2021-05-17 13:27:11,828 [DEBUG] py4...: OK[200], content: Finished
+
+2021-05-17 13:27:11,828 [DEBUG] py4...: Returning 'commands_get': []
+2021-05-17 13:27:11,828 [DEBUG] py4...: --------------------
+2021-05-17 13:27:16,105 [DEBUG] py4...: Calling commands_get('vizmap load file file="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml"')
+2021-05-17 13:27:16,106 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/load%20file), params: {'file': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml'}
+2021-05-17 13:27:16,126 [DEBUG] py4...: OK[200], content: Loaded styles:
+CyTargetLinker_1
+Finished
+
+2021-05-17 13:27:16,127 [DEBUG] py4...: Returning 'commands_get': ['Loaded styles:', 'CyTargetLinker_1']
+2021-05-17 13:27:16,127 [DEBUG] py4...: --------------------
+2021-05-17 13:27:16,687 [DEBUG] py4...: Calling commands_get('vizmap apply styles="CyTargetLinker_0"')
+2021-05-17 13:27:16,687 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/apply), params: {'styles': 'CyTargetLinker_0'}
+2021-05-17 13:27:16,746 [DEBUG] py4...: OK[200], content: Style applied to views:
+Liver steatosis adverse outcome pathway - Homo sapiens_9 (SUID: 51100)
+Finished
+
+2021-05-17 13:27:16,747 [DEBUG] py4...: Returning 'commands_get': ['Style applied to views:', 'Liver steatosis adverse outcome pathway - Homo sapiens_9 (SUID: 51100)']
+2021-05-17 13:27:16,747 [DEBUG] py4...: --------------------
+2021-05-17 13:27:20,126 [DEBUG] py4...: Calling commands_get('cytargetlinker extend idAttribute="XrefId" linkSetFiles="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml" network=current')
+2021-05-17 13:27:20,127 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/cytargetlinker/extend), params: {'idAttribute': 'XrefId', 'linkSetFiles': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml', 'network': 'current'}
+2021-05-17 13:27:21,180 [DEBUG] py4...: OK[200], content: Extension step: 1
+Linkset: WikiPathways-BBS3004_Homo sapiens_20210312
+Added edges: 911
+Added nodes: 655
+
+Finished
+
+2021-05-17 13:27:21,180 [DEBUG] py4...: Returning 'commands_get': ['Extension step: 1', 'Linkset: WikiPathways-BBS3004_Homo sapiens_20210312', 'Added edges: 911', 'Added nodes: 655']
+2021-05-17 13:27:21,180 [DEBUG] py4...: --------------------
+2021-05-17 13:32:37,038 [DEBUG] py4...: Calling commands_get('wikipathways import-as-network id="WP4010"')
+2021-05-17 13:32:37,039 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/wikipathways/import-as-network), params: {'id': 'WP4010'}
+2021-05-17 13:32:39,359 [DEBUG] py4...: OK[200], content: Finished
+
+2021-05-17 13:32:39,359 [DEBUG] py4...: Returning 'commands_get': []
+2021-05-17 13:32:39,359 [DEBUG] py4...: --------------------
+2021-05-17 13:32:39,365 [DEBUG] py4...: Calling commands_get('cytargetlinker extend idAttribute="XrefId" linkSetFiles="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml" network=current direction=TARGETS')
+2021-05-17 13:32:39,366 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/cytargetlinker/extend), params: {'idAttribute': 'XrefId', 'linkSetFiles': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/wikipathways-feb2021.xgmml', 'network': 'current', 'direction': 'TARGETS'}
+2021-05-17 13:32:40,361 [DEBUG] py4...: OK[200], content: Extension step: 1
+Linkset: WikiPathways-BBS3004_Homo sapiens_20210312
+Added edges: 828
+Added nodes: 578
+
+Finished
+
+2021-05-17 13:32:40,361 [DEBUG] py4...: Returning 'commands_get': ['Extension step: 1', 'Linkset: WikiPathways-BBS3004_Homo sapiens_20210312', 'Added edges: 828', 'Added nodes: 578']
+2021-05-17 13:32:40,361 [DEBUG] py4...: --------------------
+2021-05-17 13:32:44,602 [DEBUG] py4...: Calling commands_get('vizmap load file file="/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml"')
+2021-05-17 13:32:44,603 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/load%20file), params: {'file': '/home/marvin.martens/Documents/Teaching/2021/Bachelor internship/2021-internship/Marvin/newstyleV1.xml'}
+2021-05-17 13:32:44,633 [DEBUG] py4...: OK[200], content: Loaded styles:
+CyTargetLinker_2
+Finished
+
+2021-05-17 13:32:44,633 [DEBUG] py4...: Returning 'commands_get': ['Loaded styles:', 'CyTargetLinker_2']
+2021-05-17 13:32:44,633 [DEBUG] py4...: --------------------
+2021-05-17 13:32:45,506 [DEBUG] py4...: Calling commands_get('vizmap apply styles="CyTargetLinker_0"')
+2021-05-17 13:32:45,506 [DEBUG] py4...: HTTP GET(http://127.0.0.1:1234/v1/commands/vizmap/apply), params: {'styles': 'CyTargetLinker_0'}
+2021-05-17 13:32:45,650 [DEBUG] py4...: OK[200], content: Style applied to views:
+CTL_Liver steatosis adverse outcome pathway - Homo sapiens_10 (SUID: 54698)
+Finished
+
+2021-05-17 13:32:45,651 [DEBUG] py4...: Returning 'commands_get': ['Style applied to views:', 'CTL_Liver steatosis adverse outcome pathway - Homo sapiens_10 (SUID: 54698)']
+2021-05-17 13:32:45,651 [DEBUG] py4...: --------------------
+2021-05-17 13:37:18,347 [DEBUG] py4...: Calling layout_network()
+2021-05-17 13:37:18,347 [DEBUG] py4...: ǀCalling get_network_suid(None, base_url='http://127.0.0.1:1234/v1')
+2021-05-17 13:37:18,348 [DEBUG] py4...: ǀǀCalling commands_post('network get attribute network="current" namespace="default" columnList="SUID"', base_url='http://127.0.0.1:1234/v1')
+2021-05-17 13:37:18,348 [DEBUG] py4...: ǀǀHTTP POST(http://127.0.0.1:1234/v1/commands/network/get%20attribute), json: {'network': 'current', 'namespace': 'default', 'columnList': 'SUID'}
+2021-05-17 13:37:18,370 [DEBUG] py4...: ǀǀOK[200], content: {
+ "data": [ {
+  "SUID": 54588
+}
+],
+ "errors":[]
+}
+2021-05-17 13:37:18,370 [DEBUG] py4...: ǀǀReturning 'commands_post': [{'SUID': 54588}]
+2021-05-17 13:37:18,370 [DEBUG] py4...: ǀReturning 'get_network_suid': 54588
+2021-05-17 13:37:18,370 [DEBUG] py4...: ǀCalling commands_post('layout apply preferred networkSelected="SUID:54588"', base_url='http://127.0.0.1:1234/v1')
+2021-05-17 13:37:18,370 [DEBUG] py4...: ǀHTTP POST(http://127.0.0.1:1234/v1/commands/layout/apply%20preferred), json: {'networkSelected': 'SUID:54588'}
+2021-05-17 13:37:19,138 [DEBUG] py4...: ǀOK[200], content: {
+ "data": {},
+ "errors":[]
+}
+2021-05-17 13:37:19,138 [DEBUG] py4...: ǀReturning 'commands_post': {}
+2021-05-17 13:37:19,138 [DEBUG] py4...: Returning 'layout_network': {}
+2021-05-17 13:37:19,138 [DEBUG] py4...: --------------------
