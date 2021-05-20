@@ -21,7 +21,7 @@ getwd()
 ############################
 
 # load in files
-counts <- read.csv("./GDS1220_full.csv", sep="\t")
+counts <- read.csv("./GDS1220_ff.txt", sep="\t")
 
 # check colnames 
 unique(colnames(counts))
@@ -43,9 +43,8 @@ split_counts <- function(x) {
   }
 
 
-# use function to split
-for (item in colnames(counts_fil)) {
-split_counts(x = item)
-}
+
+split_counts(x = "GSM")
+
 # session information
 sessionInfo()
