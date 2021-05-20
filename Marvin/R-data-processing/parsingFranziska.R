@@ -21,7 +21,7 @@ getwd()
 ############################
 
 # load in files
-counts <- read.csv("./GDS1220_hope.txt", sep="\t")
+counts <- read.csv("./GDS1220_test.txt", sep="\t")
 
 # check colnames 
 unique(colnames(counts))

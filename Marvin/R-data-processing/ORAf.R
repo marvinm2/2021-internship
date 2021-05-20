@@ -67,6 +67,7 @@ ls <- list.files(path = "./data2")
 ls <- gsub(".txt", "", ls)
 
 
+
 # loop over files and run functions
 for (fileName in ls){
 
@@ -94,6 +95,8 @@ for (fileName in ls){
 
 #session information
 sessionInfo()
+
+
 
 
 
