@@ -70,7 +70,7 @@ reload <- function() {
 ## reload functions from source files 
 ## ----------------------------------
 reload();
-
+reload();
 #
 #
 ##########################
