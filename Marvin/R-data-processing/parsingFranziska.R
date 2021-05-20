@@ -37,10 +37,11 @@ unique(colnames(counts_fil))
 
 # function
 split_counts <- function(x) { 
-  y <- c("X", paste0("Series1_NHBE_Mock"), x)
+  y <- c("X", paste0("Control"), x)
   z <- counts_fil[,grepl(paste(y, collapse = "|"), colnames(counts_fil))]
   write.table(z, file = paste(x, ".txt", sep=""), row.names = F, quote = F, sep = "\t")
   }
+
 
 # use function to split
 for (item in colnames(counts_fil)) {
