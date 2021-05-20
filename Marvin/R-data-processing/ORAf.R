@@ -86,8 +86,8 @@ for (fileName in ls){
   data <- filLow(data = data)
 
   # run EdgeR 
-  dataExpr <- exprs(data = data, x = 1, y =, 
-              group = factor(c(rep("control", 3), rep("case", 3)), 
+  dataExpr <- exprs(data = data, x = 1, y =46, 
+              group = factor(c(rep("control", 5), rep("case", 40)), 
                              levels = c("control", "case")))
 } 
 
