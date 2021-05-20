@@ -1,12 +1,6 @@
-### EU TOxRisk Case study 
+### Internship
 ### Laurent Winckers, Marvin Martens - Maastricht University
 ### Department of Bioinformatics - BiGCaT
-
-### Session info:
-### R version 4.0.2 (2020-06-22)
-### Platform: x86_64-w64-mingw32/x64 (64-bit)
-### Running under: Windows 10 x64 (build 18362)
-### Packages: -
 
 ##############################
 ##### SET UP ENVIRONMENT #####
