@@ -1,0 +1,270 @@
+Identifier	Database
+3597	Entrez Gene
+4791	Entrez Gene
+7850	Entrez Gene
+3976	Entrez Gene
+7188	Entrez Gene
+3565	Entrez Gene
+7133	Entrez Gene
+3566	Entrez Gene
+Q70690408	Wikidata
+2670	Entrez Gene
+CHEBI:18421	ChEBI
+3569	Entrez Gene
+4087	Entrez Gene
+4803	Entrez Gene
+3552	Entrez Gene
+3572	Entrez Gene
+3458	Entrez Gene
+7048	Entrez Gene
+WP2653	WikiPathways
+6774	Entrez Gene
+7132	Entrez Gene
+CHEBI:29421	ChEBI
+627	Entrez Gene
+7040	Entrez Gene
+4049	Entrez Gene
+3596	Entrez Gene
+3596	Entrez Gene
+3588	Entrez Gene
+3716	Entrez Gene
+6772	Entrez Gene
+7049	Entrez Gene
+1610	Entrez Gene
+6774	Entrez Gene
+3592	Entrez Gene
+9021	Entrez Gene
+6772	Entrez Gene
+6778	Entrez Gene
+3587	Entrez Gene
+3667	Entrez Gene
+207	Entrez Gene
+7042	Entrez Gene
+3570	Entrez Gene
+4088	Entrez Gene
+3554	Entrez Gene
+7046	Entrez Gene
+4092	Entrez Gene
+3643	Entrez Gene
+3593	Entrez Gene
+2247	Entrez Gene
+4842	Entrez Gene
+7043	Entrez Gene
+6778	Entrez Gene
+CHEBI:16412	ChEBI
+Q70690408	Wikidata
+3553	Entrez Gene
+4089	Entrez Gene
+CHEBI:16240	ChEBI
+CHEBI:16480	ChEBI
+4790	Entrez Gene
+2902	Entrez Gene
+WP78	WikiPathways
+Q1805481	Wikidata
+CHEBI:15351	ChEBI
+2918	Entrez Gene
+2900	Entrez Gene
+2903	Entrez Gene
+2899	Entrez Gene
+CHEBI:14321	ChEBI
+5501	Entrez Gene
+2906	Entrez Gene
+CHEBI:14321	ChEBI
+2901	Entrez Gene
+2917	Entrez Gene
+CHEBI:17053	ChEBI
+10645	Entrez Gene
+5594	Entrez Gene
+6470	Entrez Gene
+P15104	Uniprot-TrEMBL
+814	Entrez Gene
+26227	Entrez Gene
+2805	Entrez Gene
+815	Entrez Gene
+WP534	WikiPathways
+CHEBI:18110	ChEBI
+23507	Entrez Gene
+80131	Entrez Gene
+56262	Entrez Gene
+63826	Entrez Gene
+2905	Entrez Gene
+Q27088431	Wikidata
+CHEBI:28300	ChEBI
+6509	Entrez Gene
+CHEBI:16810	ChEBI
+CHEBI:18420	ChEBI
+WP382	WikiPathways
+2892	Entrez Gene
+5723	Entrez Gene
+2893	Entrez Gene
+2898	Entrez Gene
+2891	Entrez Gene
+2914	Entrez Gene
+116444	Entrez Gene
+5330	Entrez Gene
+5566	Entrez Gene
+5582	Entrez Gene
+CHEBI:17115	ChEBI
+WP254	WikiPathways
+107	Entrez Gene
+55144	Entrez Gene
+29968	Entrez Gene
+5579	Entrez Gene
+CHEBI:15378	ChEBI
+23236	Entrez Gene
+5500	Entrez Gene
+81539	Entrez Gene
+CHEBI:35247	ChEBI
+6536	Entrez Gene
+818	Entrez Gene
+5160	Entrez Gene
+2911	Entrez Gene
+109	Entrez Gene
+5578	Entrez Gene
+5595	Entrez Gene
+CHEBI:17489	ChEBI
+84254	Entrez Gene
+5331	Entrez Gene
+CHEBI:47777	ChEBI
+5499	Entrez Gene
+26012	Entrez Gene
+CHEBI:15428	ChEBI
+2904	Entrez Gene
+6511	Entrez Gene
+CHEBI:17138	ChEBI
+6472	Entrez Gene
+1737	Entrez Gene
+1738	Entrez Gene
+114	Entrez Gene
+CHEBI:49172	ChEBI
+Q1981368	Wikidata
+27185	Entrez Gene
+84230	Entrez Gene
+54407	Entrez Gene
+1072	Entrez Gene
+54795	Entrez Gene
+5332	Entrez Gene
+816	Entrez Gene
+CHEBI:37712	ChEBI
+2912	Entrez Gene
+2897	Entrez Gene
+817	Entrez Gene
+CHEBI:15361	ChEBI
+2890	Entrez Gene
+6505	Entrez Gene
+CHEBI:15846	ChEBI
+801	Entrez Gene
+Q14864044	Wikidata
+116443	Entrez Gene
+CHEBI:29108	ChEBI
+CHEBI:16810	ChEBI
+Q1517140	Wikidata
+CHEBI:16908	ChEBI
+CHEBI:28300	ChEBI
+2744	Entrez Gene
+27165	Entrez Gene
+CHEBI:14321	ChEBI
+57084	Entrez Gene
+57030	Entrez Gene
+CHEBI:14321	ChEBI
+92745	Entrez Gene
+10991	Entrez Gene
+CHEBI:14321	ChEBI
+2915	Entrez Gene
+2904	Entrez Gene
+2902	Entrez Gene
+2905	Entrez Gene
+2906	Entrez Gene
+CHEBI:15428	ChEBI
+CHEBI:35247	ChEBI
+CHEBI:35247	ChEBI
+CHEBI:17115	ChEBI
+63826	Entrez Gene
+56301	Entrez Gene
+56301	Entrez Gene
+6536	Entrez Gene
+CHEBI:15428	ChEBI
+CHEBI:35247	ChEBI
+CHEBI:17234	ChEBI
+6513	Entrez Gene
+6515	Entrez Gene
+CHEBI:17234	ChEBI
+WP534	WikiPathways
+2892	Entrez Gene
+2893	Entrez Gene
+2891	Entrez Gene
+2890	Entrez Gene
+7040	Entrez Gene
+7042	Entrez Gene
+7043	Entrez Gene
+3976	Entrez Gene
+1270	Entrez Gene
+3553	Entrez Gene
+7124	Entrez Gene
+3586	Entrez Gene
+3479	Entrez Gene
+7124	Entrez Gene
+3553	Entrez Gene
+7040	Entrez Gene
+7042	Entrez Gene
+7043	Entrez Gene
+3565	Entrez Gene
+3586	Entrez Gene
+CHEBI:14321	ChEBI
+6506	Entrez Gene
+6507	Entrez Gene
+3569	Entrez Gene
+3552	Entrez Gene
+3553	Entrez Gene
+7040	Entrez Gene
+7042	Entrez Gene
+7043	Entrez Gene
+7124	Entrez Gene
+3586	Entrez Gene
+3586	Entrez Gene
+3565	Entrez Gene
+3458	Entrez Gene
+3460	Entrez Gene
+3459	Entrez Gene
+3479	Entrez Gene
+4791	Entrez Gene
+4790	Entrez Gene
+1385	Entrez Gene
+23237	Entrez Gene
+596	Entrez Gene
+2353	Entrez Gene
+627	Entrez Gene
+4803	Entrez Gene
+4803	Entrez Gene
+4842	Entrez Gene
+7124	Entrez Gene
+3569	Entrez Gene
+4803	Entrez Gene
+4842	Entrez Gene
+7124	Entrez Gene
+3569	Entrez Gene
+4092	Entrez Gene
+2670	Entrez Gene
+9021	Entrez Gene
+7040	Entrez Gene
+7040	Entrez Gene
+7042	Entrez Gene
+7042	Entrez Gene
+7043	Entrez Gene
+7043	Entrez Gene
+627	Entrez Gene
+627	Entrez Gene
+4803	Entrez Gene
+2247	Entrez Gene
+4803	Entrez Gene
+2247	Entrez Gene
+596	Entrez Gene
+2353	Entrez Gene
+627	Entrez Gene
+4803	Entrez Gene
+23237	Entrez Gene
+596	Entrez Gene
+2353	Entrez Gene
+627	Entrez Gene
+4803	Entrez Gene
+23237	Entrez Gene

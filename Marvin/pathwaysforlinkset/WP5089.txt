@@ -1,0 +1,10 @@
+Identifier	Database
+ENSG00000149131	Ensembl
+P01042	Uniprot-TrEMBL
+ENSG00000164344	Ensembl
+9606	NCBI Protein
+ENSG00000120054	Ensembl
+133068	ChEBI
+G3V4Y2	Uniprot-TrEMBL
+P00748	Uniprot-TrEMBL
+624	Entrez Gene
