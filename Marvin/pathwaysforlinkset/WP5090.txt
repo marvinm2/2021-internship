@@ -1,0 +1,219 @@
+Identifier	Database
+Q14876119	Wikidata
+Q189101	Wikidata
+Q189092	Wikidata
+Q1218293	Wikidata
+27429	Entrez Gene
+578	Entrez Gene
+5584	Entrez Gene
+4140	Entrez Gene
+331	Entrez Gene
+84612	Entrez Gene
+5590	Entrez Gene
+27202	Entrez Gene
+Q14864989	Wikidata
+2621	Entrez Gene
+23513	Entrez Gene
+10461	Entrez Gene
+356	Entrez Gene
+286204	Entrez Gene
+4240	Entrez Gene
+1524	Entrez Gene
+3993	Entrez Gene
+Q1067506	Wikidata
+3690	Entrez Gene
+2011	Entrez Gene
+23418	Entrez Gene
+50855	Entrez Gene
+56616	Entrez Gene
+Q189100	Wikidata
+5627	Entrez Gene
+10207	Entrez Gene
+9787	Entrez Gene
+9191	Entrez Gene
+355	Entrez Gene
+4139	Entrez Gene
+CHEBI:29108	ChEBI
+840	Entrez Gene
+558	Entrez Gene
+3685	Entrez Gene
+54205	Entrez Gene
+84552	Entrez Gene
+842	Entrez Gene
+7301	Entrez Gene
+581	Entrez Gene
+Q101991	Wikidata
+64398	Entrez Gene
+56288	Entrez Gene
+637	Entrez Gene
+3458	Entrez Gene
+841	Entrez Gene
+10487	Entrez Gene
+843	Entrez Gene
+317	Entrez Gene
+6376	Entrez Gene
+CHEBI:15377	ChEBI
+729	Entrez Gene
+CHEBI:24838	ChEBI
+57198	Entrez Gene
+1378	Entrez Gene
+Q14859847	Wikidata
+1604	Entrez Gene
+7043	Entrez Gene
+Q658145	Wikidata
+1378	Entrez Gene
+4155	Entrez Gene
+1380	Entrez Gene
+3689	Entrez Gene
+8547	Entrez Gene
+4179	Entrez Gene
+715	Entrez Gene
+725	Entrez Gene
+5199	Entrez Gene
+10584	Entrez Gene
+722	Entrez Gene
+81035	Entrez Gene
+727	Entrez Gene
+731	Entrez Gene
+718	Entrez Gene
+5359	Entrez Gene
+730	Entrez Gene
+7448	Entrez Gene
+7045	Entrez Gene
+1675	Entrez Gene
+7042	Entrez Gene
+57088	Entrez Gene
+710	Entrez Gene
+7040	Entrez Gene
+8512	Entrez Gene
+733	Entrez Gene
+R-HSA-981725	Reactome
+CHEBI:18420	ChEBI
+286410	Entrez Gene
+629	Entrez Gene
+728	Entrez Gene
+3075	Entrez Gene
+629	Entrez Gene
+4153	Entrez Gene
+2219	Entrez Gene
+717	Entrez Gene
+10747	Entrez Gene
+3684	Entrez Gene
+64478	Entrez Gene
+3687	Entrez Gene
+721	Entrez Gene
+713	Entrez Gene
+2220	Entrez Gene
+23250	Entrez Gene
+78989	Entrez Gene
+712	Entrez Gene
+719	Entrez Gene
+57194	Entrez Gene
+732	Entrez Gene
+CHEBI:30616	ChEBI
+456216	ChEBI
+148229	Entrez Gene
+714	Entrez Gene
+720	Entrez Gene
+716	Entrez Gene
+55061	Entrez Gene
+836	Entrez Gene
+3426	Entrez Gene
+1191	Entrez Gene
+735	Entrez Gene
+5205	Entrez Gene
+57048	Entrez Gene
+5648	Entrez Gene
+718	Entrez Gene
+CHEBI:15377	ChEBI
+718	Entrez Gene
+CHEBI:15377	ChEBI
+629	Entrez Gene
+R-HSA-166780	Reactome
+R-HSA-981700	Reactome
+R-HSA-166781	Reactome
+R-HSA-166828	Reactome
+R-HSA-166832	Reactome
+629	Entrez Gene
+1675	Entrez Gene
+629	Entrez Gene
+629	Entrez Gene
+629	Entrez Gene
+R-HSA-166832	Reactome
+5199	Entrez Gene
+5199	Entrez Gene
+R-HSA-166832	Reactome
+R-HSA-166828	Reactome
+R-HSA-166832	Reactome
+629	Entrez Gene
+R-HSA-166832	Reactome
+5199	Entrez Gene
+R-HSA-166832	Reactome
+R-HSA-173677	Reactome
+R-HSA-173671	Reactome
+R-HSA-173671	Reactome
+64478	Entrez Gene
+1378	Entrez Gene
+3689	Entrez Gene
+3075	Entrez Gene
+3426	Entrez Gene
+1604	Entrez Gene
+4179	Entrez Gene
+1378	Entrez Gene
+3426	Entrez Gene
+R-HSA-3266505	Reactome
+730	Entrez Gene
+733	Entrez Gene
+731	Entrez Gene
+729	Entrez Gene
+732	Entrez Gene
+730	Entrez Gene
+733	Entrez Gene
+731	Entrez Gene
+729	Entrez Gene
+732	Entrez Gene
+R-HSA-173671	Reactome
+735	Entrez Gene
+966	Entrez Gene
+CHEBI:18303	ChEBI
+CHEBI:17553	ChEBI
+CHEBI:18303	ChEBI
+CHEBI:17553	ChEBI
+CHEBI:18303	ChEBI
+CHEBI:18303	ChEBI
+713	Entrez Gene
+712	Entrez Gene
+714	Entrez Gene
+3689	Entrez Gene
+3684	Entrez Gene
+54205	Entrez Gene
+317	Entrez Gene
+54205	Entrez Gene
+637	Entrez Gene
+27429	Entrez Gene
+56616	Entrez Gene
+836	Entrez Gene
+6376	Entrez Gene
+Q184726	Wikidata
+Q101991	Wikidata
+Q658145	Wikidata
+Q184726	Wikidata
+27202	Entrez Gene
+728	Entrez Gene
+1380	Entrez Gene
+5199	Entrez Gene
+R-HSA-976779	Reactome
+R-HSA-3266497	Reactome
+713	Entrez Gene
+714	Entrez Gene
+713	Entrez Gene
+712	Entrez Gene
+714	Entrez Gene
+713	Entrez Gene
+714	Entrez Gene
+712	Entrez Gene
+712	Entrez Gene
+R-HSA-166832	Reactome
+R-HSA-166832	Reactome
+R-HSA-166781	Reactome
+R-HSA-981700	Reactome
