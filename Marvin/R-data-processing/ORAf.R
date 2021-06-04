@@ -63,7 +63,7 @@ exprs <- function(data,x,y,group){
 ################################
 
 # get filenames
-ls <- list.files(path = "./data2")
+ls <- list.files(path = "./data3")
 ls <- gsub(".txt", "", ls)
 
 
@@ -72,7 +72,7 @@ ls <- gsub(".txt", "", ls)
 for (fileName in ls){
 
   # load datafile
-  data <- read.table(paste0("./data2/", fileName, ".txt"), header = T, sep = "\t")
+  data <- read.table(paste0("./data3/", fileName, ".txt"), header = T, sep = "\t")
 
 
   # create rownames from probeID column -- column "X"
@@ -87,9 +87,9 @@ for (fileName in ls){
   data <- filLow(data = data)
 
   # run EdgeR 
-  dataExpr <- exprs(data = data, x = 1, y =45, 
-              group = factor(c(rep("control", 5), rep("case", 40)), 
-                             levels = c("control", "case")))
+  dataExpr <- exprs(data = data, x = 1, y =2, 
+              group = factor(c(rep("control", 1), rep("exposed", 2)), 
+                             levels = c("control", "exposed")))
 } 
 
 
