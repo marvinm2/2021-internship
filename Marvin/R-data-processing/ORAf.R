@@ -63,7 +63,7 @@ exprs <- function(data,x,y,group){
 ################################
 
 # get filenames
-ls <- list.files(path = "./data3")
+ls <- list.files(path = "./data4")
 ls <- gsub(".txt", "", ls)
 
 
@@ -72,7 +72,7 @@ ls <- gsub(".txt", "", ls)
 for (fileName in ls){
 
   # load datafile
-  data <- read.table(paste0("./data3/", fileName, ".txt"), header = T, sep = "\t")
+  data <- read.table(paste0("./data4/", fileName, ".txt"), header = T, sep = "\t")
 
 
   # create rownames from probeID column -- column "X"
