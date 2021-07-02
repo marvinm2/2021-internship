@@ -1,19 +1,10 @@
-# 2021-internship
+# 2021-internship code repository
 
-This repo can be used to store code, Jupyter notebooks, etc. 
+This Github repository contains the code, datafiles, and output of the Bachelor Biomedical Sciences internships (2021) by Aria Jadhav and Stefan Raats. 
 
+Both work on Jupyter notebooks to work with molecular Adverse Outcome Pathways of COVID-19 and _in vitro_ gene expression data. Using Py4cytoscape, the Jupyter notebooks forward commands to Cytoscape which is used for network creation, extending, and data visualisations. 
 
-
-## Step 1
-Try to get github desktop working to link the folders of this repository directly to your local file system. 
-https://desktop.github.com/
-
-## Step 2
-Do your first edit (called a commit) to the repository to see if it works. Add a file or edit a file. -Stefan and Aria were here
-
-## Step 3
-Search some jupyter notebooks of interest from other Github repositories and store them in this repository. (try making a new folder)
-https://github.com/cytoscape/cytoscape-automation/tree/master/for-scripters/Python
+- Stefan's final files are here: [Raats](https://github.com/marvinm2/2021-internship/tree/main/Raats)
+- Aria's final files are here: [Aria-Notebooks](https://github.com/marvinm2/2021-internship/tree/main/Aria-Notebooks)
 
 
-Here is the documentation of py4cytoscape that will be used in your project: https://py4cytoscape.readthedocs.io/en/latest/index.html
