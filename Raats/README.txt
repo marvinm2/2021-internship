@@ -8,4 +8,7 @@ IndivPath  = add expression and significance data to a pathway.
 
 It is recommended to walk through the jupyter notebooks in the order stated above. 
 
-Supplementary files can be found in the repository, such as the data file and the linksets. 
+Supplementary files can be found in the repository, such as the data file, data processing files and the linksets.
+
+ORA = Raw read count intensity expression calculations
+Parsing = Raw read count inensity pre-processing
